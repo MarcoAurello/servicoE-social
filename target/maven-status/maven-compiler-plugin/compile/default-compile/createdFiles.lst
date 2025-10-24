@@ -1,0 +1,5 @@
+br\gov\hemobras\esocial\Application.class
+br\gov\hemobras\esocial\service\AssinadorXml.class
+br\gov\hemobras\esocial\config\SSLConfig.class
+br\gov\hemobras\esocial\service\EsocialService.class
+br\gov\hemobras\esocial\controller\EsocialController.class

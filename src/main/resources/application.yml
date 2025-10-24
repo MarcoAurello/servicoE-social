@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+esocial:
+  cert:
+    path: "C:/certificados/empresa_a1.pfx"
+    password: "123456"
+  endpoints:
+    envio: "https://webservices.producaorestrita.esocial.gov.br/servicos/empregador/enviarloteeventos/WsEnviarLoteEventos.svc"
