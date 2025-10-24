@@ -19,3 +19,5 @@ Ambiente mínimo em Java para enviar XMLs do eSocial (Produção Restrita) via *
    - Health: `http://localhost:8080/api/health` → `{"ok": true}`
    - Enviar (via Postman/curl): `POST http://localhost:8080/api/enviar-lote` (Content-Type: `text/xml`), corpo = XML assinado.
 
+> api
+https://www.postman.com/tecnospeed-postman/tecnospeed/folder/xvum78p/rotas-da-gui-utilizadas-pela-management-api
